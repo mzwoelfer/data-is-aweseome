@@ -24,7 +24,7 @@ def create_query_string(intervall_query_string, date_query_string):
 
 def main():
     """Generates a list of downloadlinks and writes to search_urls.json"""
-    year_list = list(range(1990, 2025))
+    year_list = list(range(1990, 2027))
     base_url = "https://www.energy-charts.info/charts/power/data/de/"
     old_base_url = "https://www.energy-charts.info/charts/power/raw_data/de/"
     search_urls = []
