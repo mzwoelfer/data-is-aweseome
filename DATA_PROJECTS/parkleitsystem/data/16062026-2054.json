@@ -1,0 +1,1 @@
+{ "timestamp": "16062026-2054", "parkhouses": [ { "name": "Rathaus", "free_spaces": 152, "occupied_spaces": 98, "max_spaces": 250 }, { "name": "Selters Tor", "free_spaces": 34, "occupied_spaces": 114, "max_spaces": 148 }, { "name": "Am Bahnhof", "free_spaces": 127, "occupied_spaces": 104, "max_spaces": 231 } ] }
